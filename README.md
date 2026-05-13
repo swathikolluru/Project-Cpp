@@ -16,7 +16,9 @@ Distinguish between files and directories during display
 ->   Project Structure
 
 BST-File-Manager/
+
 ├── file_manager_bst.cpp
+
 └── README.md
 
 ->Data Structure Used
