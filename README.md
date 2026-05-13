@@ -21,7 +21,9 @@ BST-File-Manager/
 
 └── README.md
 
-->Data Structure Used
+->          Data Structure Used
+
+
 Data Structure              	Purpose
 Binary Search Tree (BST)	    Stores files and directories alphabetically
 Node Class	                  Stores entry name, type, and child pointers
