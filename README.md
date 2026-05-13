@@ -1,9 +1,9 @@
-                                 BST Directory/File Manager
+BST Directory/File Manager
 
 A terminal-based file management system built in C++ using Binary Search Trees (BST).
 The project demonstrates BST operations through file and directory management functionalities.
 
-->Features
+->     Features
 
 Create files and directories
 Delete files and directories
@@ -13,7 +13,7 @@ View tree using inorder, preorder, and postorder traversals
 Distinguish between files and directories during display
 
 
-->Project Structure
+->   Project Structure
 
 BST-File-Manager/
 ├── file_manager_bst.cpp
@@ -35,7 +35,7 @@ Preorder Traversal	  Root-first display	                    O(n)
 Postorder Traversal	  Child-first display	                    O(n)
 
 
-->Functionalities
+->      Functionalities
 
 Create new files and directories
 Delete entries from BST
@@ -51,5 +51,6 @@ Pointers and node-based structures
 Inorder successor in BST deletion
 
 
--> Author
+->     Author
+
 Developed by Kolluru Swathi
