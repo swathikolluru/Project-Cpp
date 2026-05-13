@@ -1,4 +1,4 @@
-BST Directory/File Manager
+                                 BST Directory/File Manager
 
 A terminal-based file management system built in C++ using Binary Search Trees (BST).
 The project demonstrates BST operations through file and directory management functionalities.
