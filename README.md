@@ -25,17 +25,25 @@ BST-File-Manager/
 
 
 Data Structure              	Purpose
+
 Binary Search Tree (BST)	    Stores files and directories alphabetically
+
 Node Class	                  Stores entry name, type, and child pointers
 
 ->Operations and Complexity
 
 Operation	                Description	                     Complexity
+
 Insert	              Add file/directory	              O(log n) average
+
 Search	              Find file/directory         	    O(log n) average
+
 Delete	              Remove file/directory	            O(log n) average
+
 Inorder               Traversal	Alphabetical listing	        O(n)
+
 Preorder Traversal	  Root-first display	                    O(n)
+
 Postorder Traversal	  Child-first display	                    O(n)
 
 
